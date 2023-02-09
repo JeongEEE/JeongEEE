@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeongEEE
-- 👀 I’m interested in Javascript, Vue.js, React.js Flutter, AWS
+- 👀 I’m interested in Javascript, Vue.js, React.js, Flutter, AWS
 - 🌱 I’m currently learning React
 
 <!---
