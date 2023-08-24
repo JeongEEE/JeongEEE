@@ -38,9 +38,5 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <br />
-  
-  <h1>🚀 Git</h1>
-  
-  ![JeongEEE's github stats](https://github-readme-stats.vercel.app/api?username=JeongEEE&show_icons=true&theme=tokyonight)
 </div>
 
