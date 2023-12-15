@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Next.js-ffffff?style=plastic&logo=next.js&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   <br />
+  <img src="https://img.shields.io/badge/nodejs-339933?style=plastic&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=white">
   <br />
   <br />
 </div>
