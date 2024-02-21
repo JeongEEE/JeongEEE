@@ -16,7 +16,7 @@
   <br />
   <img src="https://img.shields.io/badge/nodejs-339933?style=plastic&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
   <br />
   <br />
 </div>
